@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: production-container
-        image: <todo>
+        image: sample-app-prod
         ports:
         - containerPort: 8080
